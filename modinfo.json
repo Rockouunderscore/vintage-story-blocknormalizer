@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "blocknormalizer",
+    "name": "blocknormalizer",
+    "authors": [
+        "Rockou_"
+    ],
+    "description": "Edits plants, henboxes and crates to look cleaner",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}
