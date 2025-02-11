@@ -5,7 +5,7 @@
     "authors": [
         "Rockou_"
     ],
-    "description": "Edits plants, henboxes and crates to look cleaner",
+    "description": "Patches plants, henboxes and crates to look cleaner",
     "version": "1.0.0",
     "dependencies": {
         "game": ""
